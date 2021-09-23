@@ -3,11 +3,8 @@ title: "Simple document"
 author: "Huili Zheng"
 date: 2021-09-21
 output: 
-  html_document:
+  github_document
     
-    toc: TRUE
-    toc_float: TRUE
-    code_folding: hide
 ---
 
 I'm an R Markdown document! 
